@@ -37,7 +37,7 @@ Sistema completo para gerenciamento de finanças pessoais, com interface intuiti
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/seu-usuario/gestor-financeiro.git](https://github.com/joaohgoncalves/Gestor-Financeiro-Pessoal.git)
+git clone https://github.com/joaohgoncalves/Gestor-Financeiro-Pessoal.git
 cd gestor-financeiro
 
 # Instale as dependências
