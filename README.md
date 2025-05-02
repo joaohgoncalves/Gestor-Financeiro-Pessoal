@@ -8,7 +8,6 @@ Sistema completo para gerenciamento de finanças pessoais, com interface intuiti
   <img src="/screenshot/tela3.png" height="250" style="vertical-align: top;"/>
   <img src="/screenshot/tela4.png" height="250" style="vertical-align: top;"/>
   <img src="/screenshot/tela5.png" height="250" style="vertical-align: top;"/>
-  <img src="/screenshot/tela6.png" height="250" style="vertical-align: top;"/>
 </p>
 
  <p align="center">
