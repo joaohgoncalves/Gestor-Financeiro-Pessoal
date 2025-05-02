@@ -1,16 +1,19 @@
-# 📊 Gestor Financeiro Pessoal
+#  Gestor Financeiro Pessoal
 
 Sistema completo para gerenciamento de finanças pessoais, com interface intuitiva, gráficos analíticos e recursos avançados de controle de gastos.
 
-![Screenshot do Gestor Financeiro](/screenshot/tela1.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela2.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela3.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela4.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela5.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela6.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela7.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela8.png)
-![Screenshot do Gestor Financeiro](/screenshot/tela9.png)
+<p align="center">
+  <img src="/screenshot/tela1.png" width="400"/>
+  <img src="/screenshot/tela2.png" width="400"/>
+  <img src="/screenshot/tela3.png" width="400"/>
+  <img src="/screenshot/tela4.png" width="400"/>
+  <img src="/screenshot/tela5.png" width="400"/>
+  <img src="/screenshot/tela6.png" width="400"/>
+  <img src="/screenshot/tela7.png" width="400"/>
+  <img src="/screenshot/tela8.png" width="400"/>
+  <img src="/screenshot/tela9.png" width="400"/>
+</p>
+
 ---
 
 ## 🚀 Funcionalidades
